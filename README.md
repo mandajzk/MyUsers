@@ -1,7 +1,5 @@
-## MyUsers
+## MyUsers ##
 
 MyUsers is my simple user management system using PHP & MySQL. Definitely WIP...
 
-Also, this is my first time using the Markdown lang for my README files...
-
-HEY! **It works**!
+More to come soon, stay tuned. This is going into an app and being sorted out as we, ummm, type...
