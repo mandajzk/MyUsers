@@ -8,5 +8,6 @@ Features to come in order of cuz i said so:
 - __User Level Support__ (adding the restrictions needed to display or not certain pages or content based on user level) - _in the works_
 - __Automatic Password Recovery__ (the whole enter your email/reset your password bit, standard fare) - _in the works_
 - __User Account Verification__ (sends the email with the verify link) - _on the drawing board_
+- __Multiple Demos__ (based on the application like a standalone CP or a community driven site) - _standalone CP is in the works_
 
 More to come soon, stay tuned. This is going into an app and being sorted out as we, ummm, type...
