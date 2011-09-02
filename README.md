@@ -1,4 +1,4 @@
-## MyUsers ##
+__MyUsers - User Management App__
 
 MyUsers is my simple user management system using PHP & MySQL. Definitely WIP...
 
