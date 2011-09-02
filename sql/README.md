@@ -1,8 +1,8 @@
 __SQL Section README__
 
-This is just a simple breakdown of the sql syntax to add a users table with a couple test users.
+This is just a simple breakdown of the [sql syntax](https://github.com/stevefuller/MyUsers/blob/master/sql/users.sql) to add a users table with a couple test users.
 
-The syntax for the table's fields breaks down as follows:
+The syntax for the table's [fields](https://github.com/stevefuller/MyUsers/blob/master/sql/users.sql) breaks down as follows:
 
 - `user_id` is an integer field and your primary key.
 - `user_name` is a 16 digit varchar field and this is the username field.
