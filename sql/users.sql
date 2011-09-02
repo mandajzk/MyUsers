@@ -14,7 +14,10 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
--- Records of Users
+-- Records of Users - when adding users levels are as follows
+-- 0 - user
+-- 1 - manager
+-- 2 - admin
 -- ----------------------------
 INSERT INTO `users` VALUES ('1', 'steve', 'letmein', 'let them in', 'Steve', '2011-08-18 21:43:27', '2');
 INSERT INTO `users` VALUES ('2', 'dave', 'bobcat', 'a type of critter', 'David', '2011-08-18 21:43:27', '2');
