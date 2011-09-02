@@ -14,7 +14,7 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
--- Records of Users - when adding users levels are as follows
+-- Records of Users - when adding users, levels are as follows
 -- 0 - user
 -- 1 - manager
 -- 2 - admin
