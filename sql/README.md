@@ -2,7 +2,7 @@ __SQL Section README__
 
 This is just a simple breakdown of the sql syntax to add a users table with a couple test users.
 
-The syntax for the table breaks down as follows:
+The syntax for the table's fields breaks down as follows:
 
 - user_id is an integer field and your primary key.
 - user_name is a 16 digit varchar field and this is the username field.
@@ -17,4 +17,4 @@ These are the user levels for the values in the field above.
 
 - 0 = A normal user for a typical community site.
 - 1 = A manager level user for adding and removing products or company blog posts.
-- 3 = An admin level user for top level user requirements such as supporting manager level users, etc.
+- 2 = An admin level user for top level user requirements such as supporting manager level users, etc.
