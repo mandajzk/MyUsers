@@ -1,7 +1,7 @@
 <?php
 
 
-/* now for security's sake, you should store these outside of your but we will address that later for now just get connected to your db */
+/* now for security's sake, you should store these outside of your root dir but we will address that later for now just get connected to your db */
 $hostname = "localhost";
 $database = "DB_Name";
 $username = "DB_Username";
