@@ -1,4 +1,4 @@
-Copyright (C) <9/2011> by <Steve Fuller, redhousewd.com>
+Copyright (C) 9/2011 by Steve Fuller, redhousewd.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
