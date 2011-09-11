@@ -74,6 +74,16 @@ $check2 = mysql_num_rows($check);
   	  		<br>
   	  		<?php if (isset($errorMessage)) { echo "<div id=\"alert\" class=\"error\">".$errorMessage."</div>"; } ?>
   	  		<h1>Log In below:</h1>
+  	  		<p>Hey there! To check the demo out, use the following login information:</p>
+  	  		
+  	  		<p>
+  	  			<ul>
+  	  				<li>For a standard level(0) user, use <strong>"user"</strong> as your username.</li>
+  	  				<li>For a 2nd level user(1), use <strong>"manager"</strong> as your username.</li>
+  	  				<li>For an admin level user(2), use <strong>"admin"</strong> as your username.</li>
+  	  		  </ul>
+  	  		</p>
+  	  		<p>Use <strong>"password"</strong> as your password for all users above. Once you get logged in, please notice the user details on the top of the sidebar. Shows the displayed name and the user level.</p>
   	  		<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post" name="myForm">
   	  			<input type="hidden" name="login" value="process">
   	  			
