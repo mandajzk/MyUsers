@@ -27,7 +27,7 @@ if (!isset($_SESSION['logged_in'])
   			<li class="nav"><a href="dashboard.php" class="nav">Dashboard</a></li>
   			<li class="nav"><a href="manage_pages.php" class="nav">Manage Pages</a></li>
   			<li class="nav"><a href="manage_blog.php" class="nav">Manage Blog</a></li>
-  			<li class="nav"><a href="manage_users.php" class="nav">Manage Users</a></li>
+  			<?php if (isset($_SESSION['user_level'])&& $_SESSION['user_level'] == "2") { echo "<li class=\"nav\"><a href=\"manage_users.php\" class=\"nav\">Manage Users</a></li>"; } ?>
   			<li class="nav"><a href="logout.php" class="nav">Log Out</a></li>
   		</ul>
   		</div>

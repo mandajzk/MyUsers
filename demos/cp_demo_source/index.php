@@ -84,6 +84,7 @@ $check2 = mysql_num_rows($check);
   	  		  </ul>
   	  		</p>
   	  		<p>Use <strong>"password"</strong> as your password for all users above. Once you get logged in, please notice the user details on the top of the sidebar. Shows the displayed name and the user level.</p>
+  	  		<p>One last thing to notice is that the "Manage Users" nav item is <strong>only available for admin level users</strong>.</p>
   	  		<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post" name="myForm">
   	  			<input type="hidden" name="login" value="process">
   	  			
