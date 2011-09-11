@@ -1,23 +1,11 @@
 <?php
 
 
-/* now for security's sake, you should store these outside of your but we will address that later for now just get connected to your db 
-$hostname = "mysql50-105.wc2.dfw1.stabletransit.com";
-$database = "581917_myusers_cp";
-$username = "581917_demo";
-$password = "Sf7394jt";
-
+/* now for security's sake, you should store these outside of your but we will address that later for now just get connected to your db */
 $hostname = "localhost";
-$database = "myusers";
-$username = "steve";
-$password = "letmein";
-*/
-
-
-$hostname = "mysql50-105.wc2.dfw1.stabletransit.com";
-$database = "581917_myusers_cp";
-$username = "581917_demo";
-$password = "Sf7394jt";
+$database = "DB_Name";
+$username = "DB_Username";
+$password = "DB_Password";
 
 $link = mysql_pconnect("$hostname", "$username", "$password") or die ("Could not connect to MySQL");
 mysql_select_db ("$database") or die ("Could not select database");
