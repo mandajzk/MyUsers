@@ -5,7 +5,7 @@ MyUsers is my simple user management system using PHP & MySQL. Definitely WIP...
 Features to come in order of cuz i said so:
 
 - __Displayed Name Support__ - _Done, this has been added now_<br>Not just displaying a username, this is greeting a user like "Hello, Bob" or "Hello Nancy".
-- __User Level Support__ - _Done, this has been added now_<br>Adding the restrictions needed to display or not certain pages or content based on user level. The demo will only show the "Manage Users" option to admin level users.
+- __User Level Support__ - _Done, this has been added now_<br>Adding the restrictions needed to display or not certain pages or content based on user level. The demo will only show the "Manage Users" option to admin level users. [View demo here]. (http://myusers-cp.redhousewd.com/)
 - __Automatic Password Recovery__ - _in the works_<br>The whole enter your email/reset your password bit, standard fare really.
 - __User Account Verification__ - _on the drawing board_<br>Sends the email with the verify link.
 - __Multiple Demos__ - _standalone CP is complete_ [view demo] (http://myusers-cp.redhousewd.com/)<br>3 Demos based on their application like a [standalone CP] (http://myusers-cp.redhousewd.com/) or a community driven site.
