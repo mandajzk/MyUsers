@@ -1,5 +1,7 @@
 __MyUsers - User Management App__
 
+__UPDATE:__ Newbies, please understand that this is a starting point for a tutorial I am in the process of writing for creating secure user I/O systems. This code is a starting point ONLY and has security flaws that will be resolved within the tutorial. This is for learning purposes and should be considered not secure enough to just copy and paste into your site! For example, I have NOT addressed SQL injection AT ALL YET. Thanks for your interest but this is NOT a complete, ready to use app. Not just yet!
+
 MyUsers is my simple user management system using PHP & MySQL. Definitely WIP...
 
 Features to come in order of cuz i said so:
